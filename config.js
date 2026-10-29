@@ -9,7 +9,7 @@ window.PORTAL_CONFIG = {
   SUPABASE_ANON_KEY: "sb_publishable_-fs5kkTwYsLN3RQJe-fXhQ_CWR3SK6S",
 
   ACADEMY_NAME: "Naphtali PM Group Academy",
-  LOGO_URL: "https://lh3.googleusercontent.com/d/1BW1wGguKB1izoLvBrG5zPDsI1ps3QAAo",
+  LOGO_URL: "https://lh3.googleusercontent.com/d/1EJ9Dlogz17aPecMItflWWhcwWxgme0WP",
   SUPPORT_EMAIL: "naphtalipmltd@gmail.com",
 
   // Set to true only after you have switched on Google sign-in in Supabase
