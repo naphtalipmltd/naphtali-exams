@@ -5,8 +5,8 @@
 // NEVER put the "service_role" / secret key in this file.
 // =====================================================================
 window.PORTAL_CONFIG = {
-  SUPABASE_URL: "https://YOUR-PROJECT-REF.supabase.co",
-  SUPABASE_ANON_KEY: "YOUR-ANON-PUBLIC-KEY",
+  SUPABASE_URL: "https://vkkqflleefodebxpuwft.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_-fs5kkTwYsLN3RQJe-fXhQ_CWR3SK6S",
 
   ACADEMY_NAME: "Naphtali PM Group Academy",
   LOGO_URL: "https://lh3.googleusercontent.com/d/1BW1wGguKB1izoLvBrG5zPDsI1ps3QAAo",
