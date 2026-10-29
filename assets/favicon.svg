@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#14213D"/><path d="M9 23V9h3.2l7 9.3V9H23v14h-3.1l-7.1-9.4V23z" fill="#F2B544"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="40" fill="#FFFFFF"/>
+  <g transform="translate(31 18) scale(0.9)">
+    <polygon points="0,0 215,0 215,180" fill="#4A59D9"/>
+    <polygon points="0,75 0,245 190,245" fill="#F86B2E"/>
+    <text x="178" y="41" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" font-size="30" fill="#FFFFFF">PM</text>
+  </g>
+</svg>
